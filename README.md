@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **ML algorithms, Python, AWS**
+- 💬 Ask me about **ML algorithms, data structures, AWS**
 
 - 📫 How to reach me **aishiyer99@gmail.com**
 
