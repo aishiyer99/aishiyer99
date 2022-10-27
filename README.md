@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aishwarya Iyer</h1>
+<h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">Everything mathematics, statistics, and data science</h3>
 
 - 🌱 I’m currently learning **Tensorflow**
